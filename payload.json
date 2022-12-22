@@ -72,7 +72,7 @@
           "networkTier": "PREMIUM"
         }
       ],
-      "subnetwork": "projects/lab5cc-371417/regions/europe-west2/subnetworks/default",
+      "subnetwork": "projects/lab5cc-371417/regions/europe-west2-c/subnetworks/default",
       "networkIP": "10.154.0.3",
       "fingerprint": "RLej_Kmj6D8=",
       "kind": "compute#networkInterface"
