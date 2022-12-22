@@ -45,7 +45,7 @@
         }
       ],
       "stackType": "IPV4_ONLY",
-      "subnetwork": "projects/lab5cc-371417/regions/europe-west2-c/subnetworks/default"
+      "subnetwork": "projects/lab5cc-371417/regions/europe-west2/subnetworks/default"
     }
   ],
   "reservationAffinity": {
